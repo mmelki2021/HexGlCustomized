@@ -290,6 +290,6 @@ Cf. /11-capitaliser-et-nettoyer pour la doc mise à jour.
 Analyse le diff actuel avant commit, propose un message adapté puis crée le commit local. Ne push rien. En cas de changement inattendu, arrête-toi avant le commit.
 ```
 
-## 13 - Commit
+## 13 - Automatisations Git
 
 Cf. /13-automatisations-git pour les fichiers du chapitre sur Git, GitHub, et CI / CD
