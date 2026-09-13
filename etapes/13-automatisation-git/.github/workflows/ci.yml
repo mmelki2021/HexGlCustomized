@@ -1,0 +1,20 @@
+name: Tests                         # Nom affiché dans GitHub Actions
+
+on:
+  push:                             # Déclenche la CI à chaque push
+  pull_request:                     # Déclenche aussi la CI sur une PR
+
+jobs:
+  tests:                            # Nom du job
+    runs-on: ubuntu-latest          # Machine Linux fournie par GitHub
+
+    steps:
+      - uses: actions/checkout@v4   # Récupère le contenu du dépôt
+
+      - uses: actions/setup-node@v4 # Installe/configure Node.js
+        with:
+          node-version: 22          # Version de Node utilisée
+
+      - name: Lancer les tests
+        working-directory: HexGL    # Se place dans le dossier de l'application
+        run: npm test               # Lance la même commande qu'en local

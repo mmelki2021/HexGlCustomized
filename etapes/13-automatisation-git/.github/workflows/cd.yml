@@ -1,0 +1,32 @@
+name: Deploy GitHub Pages             # Nom du workflow
+
+on:
+  push:
+    branches: [main]                  # Déclenché à chaque push sur main
+
+permissions:
+  contents: read                      # Lire le dépôt
+  pages: write                        # Publier sur GitHub Pages
+  id-token: write                     # Authentifier le déploiement
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest            # Machine GitHub
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v6     # Récupère le dépôt
+
+      - uses: actions/configure-pages@v5
+                                        # Configure GitHub Pages
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: HexGL                 # Publie uniquement l'application
+
+      - name: Déployer
+        id: deployment
+        uses: actions/deploy-pages@v4 # Met l'application en ligne
