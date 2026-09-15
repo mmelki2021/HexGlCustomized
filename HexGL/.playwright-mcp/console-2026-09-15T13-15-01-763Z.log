@@ -1,0 +1,522 @@
+[   12786ms] [LOG] THREE.WebGLRenderer 50dev @ http://localhost:8123/libs/Three.dev.js:341
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[   12798ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[   12800ms] [LOG] HIGH @ http://localhost:8123/bkcore/hexgl/tracks/Cityscape.js:119
+[   12803ms] [LOG] LOADED undefined : undefined ( 0 / 44 ). @ http://localhost:8123/launch.js:71
+[   12808ms] [LOG] LOADED geometries : bonus.base ( 1 / 44 ). @ http://localhost:8123/launch.js:71
+[   12809ms] [LOG] LOADED geometries : booster ( 2 / 44 ). @ http://localhost:8123/launch.js:71
+[   12818ms] [LOG] LOADED geometries : ship.feisar ( 3 / 44 ). @ http://localhost:8123/launch.js:71
+[   12848ms] [LOG] LOADED geometries : track.cityscape ( 4 / 44 ). @ http://localhost:8123/launch.js:71
+[   12850ms] [LOG] LOADED geometries : track.cityscape.scrapers1 ( 5 / 44 ). @ http://localhost:8123/launch.js:71
+[   12853ms] [LOG] LOADED geometries : track.cityscape.scrapers2 ( 6 / 44 ). @ http://localhost:8123/launch.js:71
+[   12854ms] [LOG] LOADED geometries : track.cityscape.start ( 7 / 44 ). @ http://localhost:8123/launch.js:71
+[   12854ms] [LOG] LOADED geometries : track.cityscape.start.banner ( 8 / 44 ). @ http://localhost:8123/launch.js:71
+[   12855ms] [LOG] LOADED geometries : track.cityscape.bonus.speed ( 9 / 44 ). @ http://localhost:8123/launch.js:71
+[   12859ms] [LOG] LOADED textures : hex ( 10 / 44 ). @ http://localhost:8123/launch.js:71
+[   12859ms] [LOG] LOADED textures : spark ( 11 / 44 ). @ http://localhost:8123/launch.js:71
+[   12859ms] [LOG] LOADED textures : cloud ( 12 / 44 ). @ http://localhost:8123/launch.js:71
+[   12859ms] [LOG] LOADED textures : ship.feisar.diffuse ( 13 / 44 ). @ http://localhost:8123/launch.js:71
+[   12859ms] [LOG] LOADED textures : ship.feisar.specular ( 14 / 44 ). @ http://localhost:8123/launch.js:71
+[   12860ms] [LOG] LOADED textures : ship.feisar.normal ( 15 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : booster.diffuse ( 16 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : booster.sprite ( 17 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.diffuse ( 18 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.specular ( 19 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.normal ( 20 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.scrapers1.diffuse ( 21 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.scrapers1.specular ( 22 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.scrapers1.normal ( 23 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.scrapers2.diffuse ( 24 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.scrapers2.specular ( 25 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.scrapers2.normal ( 26 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.start.diffuse ( 27 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.start.specular ( 28 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.start.normal ( 29 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : track.cityscape.start.banner ( 30 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : bonus.base.diffuse ( 31 / 44 ). @ http://localhost:8123/launch.js:71
+[   12861ms] [LOG] LOADED textures : bonus.base.normal ( 32 / 44 ). @ http://localhost:8123/launch.js:71
+[   12862ms] [LOG] LOADED textures : bonus.base.specular ( 33 / 44 ). @ http://localhost:8123/launch.js:71
+[   12862ms] [LOG] LOADED texturesCube : skybox.dawnclouds ( 34 / 44 ). @ http://localhost:8123/launch.js:71
+[   12952ms] [LOG] LOADED analysers : track.cityscape.collision ( 35 / 44 ). @ http://localhost:8123/launch.js:71
+[   13012ms] [LOG] LOADED analysers : track.cityscape.height ( 36 / 44 ). @ http://localhost:8123/launch.js:71
+[   13012ms] [LOG] LOADED images : hud.bg ( 37 / 44 ). @ http://localhost:8123/launch.js:71
+[   13012ms] [LOG] LOADED images : hud.speed ( 38 / 44 ). @ http://localhost:8123/launch.js:71
+[   13012ms] [LOG] LOADED images : hud.shield ( 39 / 44 ). @ http://localhost:8123/launch.js:71
+[   13018ms] [LOG] LOADED sounds : crash ( 40 / 44 ). @ http://localhost:8123/launch.js:71
+[   13019ms] [LOG] LOADED sounds : boost ( 41 / 44 ). @ http://localhost:8123/launch.js:71
+[   13021ms] [LOG] LOADED sounds : destroyed ( 42 / 44 ). @ http://localhost:8123/launch.js:71
+[   13025ms] [LOG] LOADED sounds : wind ( 43 / 44 ). @ http://localhost:8123/launch.js:71
+[   13417ms] [LOG] LOADED sounds : bg ( 44 / 44 ). @ http://localhost:8123/launch.js:71
+[   13417ms] [LOG] LOADED. @ http://localhost:8123/launch.js:61
+[   52390ms] [LOG] THREE.WebGLRenderer 50dev @ http://localhost:8123/libs/Three.dev.js:341
+[   52399ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   52399ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   52399ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   52400ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   52400ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   52400ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   52400ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[   52400ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[   52400ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[   52400ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[   52401ms] [LOG] HIGH @ http://localhost:8123/bkcore/hexgl/tracks/Cityscape.js:119
+[   52406ms] [LOG] LOADED undefined : undefined ( 0 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : hex ( 1 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : spark ( 2 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : cloud ( 3 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : ship.feisar.diffuse ( 4 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : ship.feisar.specular ( 5 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : ship.feisar.normal ( 6 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : booster.diffuse ( 7 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : booster.sprite ( 8 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : track.cityscape.diffuse ( 9 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : track.cityscape.specular ( 10 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : track.cityscape.normal ( 11 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : track.cityscape.scrapers1.diffuse ( 12 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : track.cityscape.scrapers1.specular ( 13 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : track.cityscape.scrapers1.normal ( 14 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : track.cityscape.scrapers2.diffuse ( 15 / 44 ). @ http://localhost:8123/launch.js:71
+[   52409ms] [LOG] LOADED textures : track.cityscape.scrapers2.specular ( 16 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED textures : track.cityscape.scrapers2.normal ( 17 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED textures : track.cityscape.start.diffuse ( 18 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED textures : track.cityscape.start.specular ( 19 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED textures : track.cityscape.start.normal ( 20 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED textures : track.cityscape.start.banner ( 21 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED textures : bonus.base.diffuse ( 22 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED textures : bonus.base.normal ( 23 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED textures : bonus.base.specular ( 24 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED texturesCube : skybox.dawnclouds ( 25 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED images : hud.bg ( 26 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED images : hud.speed ( 27 / 44 ). @ http://localhost:8123/launch.js:71
+[   52410ms] [LOG] LOADED images : hud.shield ( 28 / 44 ). @ http://localhost:8123/launch.js:71
+[   52412ms] [LOG] LOADED geometries : bonus.base ( 29 / 44 ). @ http://localhost:8123/launch.js:71
+[   52413ms] [LOG] LOADED geometries : booster ( 30 / 44 ). @ http://localhost:8123/launch.js:71
+[   52421ms] [LOG] LOADED geometries : ship.feisar ( 31 / 44 ). @ http://localhost:8123/launch.js:71
+[   52442ms] [LOG] LOADED geometries : track.cityscape ( 32 / 44 ). @ http://localhost:8123/launch.js:71
+[   52443ms] [LOG] LOADED geometries : track.cityscape.scrapers1 ( 33 / 44 ). @ http://localhost:8123/launch.js:71
+[   52444ms] [LOG] LOADED geometries : track.cityscape.scrapers2 ( 34 / 44 ). @ http://localhost:8123/launch.js:71
+[   52444ms] [LOG] LOADED geometries : track.cityscape.start ( 35 / 44 ). @ http://localhost:8123/launch.js:71
+[   52445ms] [LOG] LOADED geometries : track.cityscape.start.banner ( 36 / 44 ). @ http://localhost:8123/launch.js:71
+[   52445ms] [LOG] LOADED geometries : track.cityscape.bonus.speed ( 37 / 44 ). @ http://localhost:8123/launch.js:71
+[   52510ms] [LOG] LOADED analysers : track.cityscape.collision ( 38 / 44 ). @ http://localhost:8123/launch.js:71
+[   52584ms] [LOG] LOADED analysers : track.cityscape.height ( 39 / 44 ). @ http://localhost:8123/launch.js:71
+[   52600ms] [LOG] LOADED sounds : crash ( 40 / 44 ). @ http://localhost:8123/launch.js:71
+[   52601ms] [LOG] LOADED sounds : boost ( 41 / 44 ). @ http://localhost:8123/launch.js:71
+[   52602ms] [LOG] LOADED sounds : destroyed ( 42 / 44 ). @ http://localhost:8123/launch.js:71
+[   52606ms] [LOG] LOADED sounds : wind ( 43 / 44 ). @ http://localhost:8123/launch.js:71
+[   52968ms] [LOG] LOADED sounds : bg ( 44 / 44 ). @ http://localhost:8123/launch.js:71
+[   52968ms] [LOG] LOADED. @ http://localhost:8123/launch.js:61
+[   72525ms] [LOG] GAMEOVER @ http://localhost:8123/bkcore/hexgl/ShipControls.js:679
+[   74043ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74060ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74077ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74096ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74113ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74132ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74149ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74168ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74185ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74204ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74222ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74241ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74258ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74276ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74294ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74311ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74329ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74347ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74365ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74382ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74401ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74418ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74438ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74455ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74474ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74491ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74509ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74526ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74545ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74563ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74580ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74597ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74615ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74632ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74651ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74668ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74686ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74703ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74720ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74737ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74755ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74772ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74790ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74807ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74825ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74842ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74860ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74877ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74895ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74912ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74930ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74947ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74965ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   74982ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75001ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75017ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75037ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75055ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75074ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75091ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75109ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75125ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75144ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75161ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75179ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75196ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75213ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75230ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75248ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75265ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75283ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75301ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75318ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75335ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75352ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75371ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75388ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75408ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75425ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75444ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75461ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75479ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75496ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75516ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75532ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75552ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75570ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75587ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75606ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75622ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75641ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75657ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75675ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75692ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75710ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75727ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75745ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75764ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75781ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75802ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75819ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75838ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75859ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75873ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75894ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75913ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75929ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75948ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75965ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   75983ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   76000ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   76018ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   76035ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[   76053ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  140390ms] [LOG] THREE.WebGLRenderer 50dev @ http://localhost:8123/libs/Three.dev.js:341
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  140401ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  140402ms] [LOG] HIGH @ http://localhost:8123/bkcore/hexgl/tracks/Cityscape.js:119
+[  140407ms] [LOG] LOADED undefined : undefined ( 0 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : hex ( 1 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : spark ( 2 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : cloud ( 3 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : ship.feisar.diffuse ( 4 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : ship.feisar.specular ( 5 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : ship.feisar.normal ( 6 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : booster.diffuse ( 7 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : booster.sprite ( 8 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : track.cityscape.diffuse ( 9 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : track.cityscape.specular ( 10 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : track.cityscape.normal ( 11 / 44 ). @ http://localhost:8123/launch.js:71
+[  140410ms] [LOG] LOADED textures : track.cityscape.scrapers1.diffuse ( 12 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.scrapers1.specular ( 13 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.scrapers1.normal ( 14 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.scrapers2.diffuse ( 15 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.scrapers2.specular ( 16 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.scrapers2.normal ( 17 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.start.diffuse ( 18 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.start.specular ( 19 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.start.normal ( 20 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : track.cityscape.start.banner ( 21 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : bonus.base.diffuse ( 22 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : bonus.base.normal ( 23 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED textures : bonus.base.specular ( 24 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED texturesCube : skybox.dawnclouds ( 25 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED images : hud.bg ( 26 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED images : hud.speed ( 27 / 44 ). @ http://localhost:8123/launch.js:71
+[  140411ms] [LOG] LOADED images : hud.shield ( 28 / 44 ). @ http://localhost:8123/launch.js:71
+[  140414ms] [LOG] LOADED geometries : bonus.base ( 29 / 44 ). @ http://localhost:8123/launch.js:71
+[  140416ms] [LOG] LOADED geometries : booster ( 30 / 44 ). @ http://localhost:8123/launch.js:71
+[  140422ms] [LOG] LOADED geometries : ship.feisar ( 31 / 44 ). @ http://localhost:8123/launch.js:71
+[  140442ms] [LOG] LOADED geometries : track.cityscape ( 32 / 44 ). @ http://localhost:8123/launch.js:71
+[  140443ms] [LOG] LOADED geometries : track.cityscape.scrapers1 ( 33 / 44 ). @ http://localhost:8123/launch.js:71
+[  140444ms] [LOG] LOADED geometries : track.cityscape.scrapers2 ( 34 / 44 ). @ http://localhost:8123/launch.js:71
+[  140444ms] [LOG] LOADED geometries : track.cityscape.start ( 35 / 44 ). @ http://localhost:8123/launch.js:71
+[  140445ms] [LOG] LOADED geometries : track.cityscape.start.banner ( 36 / 44 ). @ http://localhost:8123/launch.js:71
+[  140445ms] [LOG] LOADED geometries : track.cityscape.bonus.speed ( 37 / 44 ). @ http://localhost:8123/launch.js:71
+[  140518ms] [LOG] LOADED analysers : track.cityscape.collision ( 38 / 44 ). @ http://localhost:8123/launch.js:71
+[  140572ms] [LOG] LOADED analysers : track.cityscape.height ( 39 / 44 ). @ http://localhost:8123/launch.js:71
+[  140583ms] [LOG] LOADED sounds : crash ( 40 / 44 ). @ http://localhost:8123/launch.js:71
+[  140583ms] [LOG] LOADED sounds : boost ( 41 / 44 ). @ http://localhost:8123/launch.js:71
+[  140585ms] [LOG] LOADED sounds : destroyed ( 42 / 44 ). @ http://localhost:8123/launch.js:71
+[  140588ms] [LOG] LOADED sounds : wind ( 43 / 44 ). @ http://localhost:8123/launch.js:71
+[  140945ms] [LOG] LOADED sounds : bg ( 44 / 44 ). @ http://localhost:8123/launch.js:71
+[  140946ms] [LOG] LOADED. @ http://localhost:8123/launch.js:61
+[  171523ms] [LOG] THREE.WebGLRenderer 50dev @ http://localhost:8123/libs/Three.dev.js:341
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  171529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  171531ms] [LOG] HIGH @ http://localhost:8123/bkcore/hexgl/tracks/Cityscape.js:119
+[  171536ms] [LOG] LOADED undefined : undefined ( 0 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : hex ( 1 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : spark ( 2 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : cloud ( 3 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : ship.feisar.diffuse ( 4 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : ship.feisar.specular ( 5 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : ship.feisar.normal ( 6 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : booster.diffuse ( 7 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : booster.sprite ( 8 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.diffuse ( 9 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.specular ( 10 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.normal ( 11 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.scrapers1.diffuse ( 12 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.scrapers1.specular ( 13 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.scrapers1.normal ( 14 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.scrapers2.diffuse ( 15 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.scrapers2.specular ( 16 / 44 ). @ http://localhost:8123/launch.js:71
+[  171539ms] [LOG] LOADED textures : track.cityscape.scrapers2.normal ( 17 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED textures : track.cityscape.start.diffuse ( 18 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED textures : track.cityscape.start.specular ( 19 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED textures : track.cityscape.start.normal ( 20 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED textures : track.cityscape.start.banner ( 21 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED textures : bonus.base.diffuse ( 22 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED textures : bonus.base.normal ( 23 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED textures : bonus.base.specular ( 24 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED texturesCube : skybox.dawnclouds ( 25 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED images : hud.bg ( 26 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED images : hud.speed ( 27 / 44 ). @ http://localhost:8123/launch.js:71
+[  171540ms] [LOG] LOADED images : hud.shield ( 28 / 44 ). @ http://localhost:8123/launch.js:71
+[  171542ms] [LOG] LOADED geometries : bonus.base ( 29 / 44 ). @ http://localhost:8123/launch.js:71
+[  171544ms] [LOG] LOADED geometries : booster ( 30 / 44 ). @ http://localhost:8123/launch.js:71
+[  171552ms] [LOG] LOADED geometries : ship.feisar ( 31 / 44 ). @ http://localhost:8123/launch.js:71
+[  171573ms] [LOG] LOADED geometries : track.cityscape ( 32 / 44 ). @ http://localhost:8123/launch.js:71
+[  171574ms] [LOG] LOADED geometries : track.cityscape.scrapers1 ( 33 / 44 ). @ http://localhost:8123/launch.js:71
+[  171575ms] [LOG] LOADED geometries : track.cityscape.scrapers2 ( 34 / 44 ). @ http://localhost:8123/launch.js:71
+[  171575ms] [LOG] LOADED geometries : track.cityscape.start ( 35 / 44 ). @ http://localhost:8123/launch.js:71
+[  171575ms] [LOG] LOADED geometries : track.cityscape.start.banner ( 36 / 44 ). @ http://localhost:8123/launch.js:71
+[  171576ms] [LOG] LOADED geometries : track.cityscape.bonus.speed ( 37 / 44 ). @ http://localhost:8123/launch.js:71
+[  171628ms] [LOG] LOADED analysers : track.cityscape.collision ( 38 / 44 ). @ http://localhost:8123/launch.js:71
+[  171677ms] [LOG] LOADED analysers : track.cityscape.height ( 39 / 44 ). @ http://localhost:8123/launch.js:71
+[  171691ms] [LOG] LOADED sounds : crash ( 40 / 44 ). @ http://localhost:8123/launch.js:71
+[  171692ms] [LOG] LOADED sounds : boost ( 41 / 44 ). @ http://localhost:8123/launch.js:71
+[  171693ms] [LOG] LOADED sounds : destroyed ( 42 / 44 ). @ http://localhost:8123/launch.js:71
+[  171697ms] [LOG] LOADED sounds : wind ( 43 / 44 ). @ http://localhost:8123/launch.js:71
+[  172057ms] [LOG] LOADED sounds : bg ( 44 / 44 ). @ http://localhost:8123/launch.js:71
+[  172057ms] [LOG] LOADED. @ http://localhost:8123/launch.js:61
+[  313893ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  313911ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  313930ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  313942ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  313960ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  313977ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  313996ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314013ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314032ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314050ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314068ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314087ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314103ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314122ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314138ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314158ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314174ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314194ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314211ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314229ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314247ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314264ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314282ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314300ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314320ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314337ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314356ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314372ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314391ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314408ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314426ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314442ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314461ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314478ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314497ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314513ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314532ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314548ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314567ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314584ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314603ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314620ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314637ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314655ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314672ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314690ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314708ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314726ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314743ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314761ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314778ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314798ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314814ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314833ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314850ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314869ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314886ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314905ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314921ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314940ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314956ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314976ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  314992ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315011ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315027ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315049ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315063ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315078ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315098ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315112ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315135ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315150ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315162ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315181ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315197ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315216ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315233ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315251ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315269ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315287ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315305ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315322ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315342ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315361ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315379ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315398ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315414ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315433ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315450ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315468ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315485ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315504ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315521ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315539ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315555ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315574ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315591ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315609ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315626ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315644ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315661ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315680ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315696ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315715ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315732ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315750ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315767ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315786ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315802ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315821ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315837ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315856ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315873ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315891ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315908ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  315927ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
+[  364522ms] [LOG] THREE.WebGLRenderer 50dev @ http://localhost:8123/libs/Three.dev.js:341
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getAttribLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:725
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  364529ms] [WARNING] WebGL: INVALID_OPERATION: getUniformLocation: program not linked @ http://localhost:8123/libs/Three.dev.js:726
+[  364530ms] [LOG] HIGH @ http://localhost:8123/bkcore/hexgl/tracks/Cityscape.js:119
+[  364535ms] [LOG] LOADED undefined : undefined ( 0 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : hex ( 1 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : spark ( 2 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : cloud ( 3 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : ship.feisar.diffuse ( 4 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : ship.feisar.specular ( 5 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : ship.feisar.normal ( 6 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : booster.diffuse ( 7 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : booster.sprite ( 8 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : track.cityscape.diffuse ( 9 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : track.cityscape.specular ( 10 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : track.cityscape.normal ( 11 / 44 ). @ http://localhost:8123/launch.js:71
+[  364538ms] [LOG] LOADED textures : track.cityscape.scrapers1.diffuse ( 12 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.scrapers1.specular ( 13 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.scrapers1.normal ( 14 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.scrapers2.diffuse ( 15 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.scrapers2.specular ( 16 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.scrapers2.normal ( 17 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.start.diffuse ( 18 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.start.specular ( 19 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.start.normal ( 20 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : track.cityscape.start.banner ( 21 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : bonus.base.diffuse ( 22 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : bonus.base.normal ( 23 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED textures : bonus.base.specular ( 24 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED texturesCube : skybox.dawnclouds ( 25 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED images : hud.bg ( 26 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED images : hud.speed ( 27 / 44 ). @ http://localhost:8123/launch.js:71
+[  364539ms] [LOG] LOADED images : hud.shield ( 28 / 44 ). @ http://localhost:8123/launch.js:71
+[  364541ms] [LOG] LOADED geometries : bonus.base ( 29 / 44 ). @ http://localhost:8123/launch.js:71
+[  364542ms] [LOG] LOADED geometries : booster ( 30 / 44 ). @ http://localhost:8123/launch.js:71
+[  364551ms] [LOG] LOADED geometries : ship.feisar ( 31 / 44 ). @ http://localhost:8123/launch.js:71
+[  364573ms] [LOG] LOADED geometries : track.cityscape ( 32 / 44 ). @ http://localhost:8123/launch.js:71
+[  364576ms] [LOG] LOADED geometries : track.cityscape.scrapers1 ( 33 / 44 ). @ http://localhost:8123/launch.js:71
+[  364578ms] [LOG] LOADED geometries : track.cityscape.scrapers2 ( 34 / 44 ). @ http://localhost:8123/launch.js:71
+[  364579ms] [LOG] LOADED geometries : track.cityscape.start ( 35 / 44 ). @ http://localhost:8123/launch.js:71
+[  364579ms] [LOG] LOADED geometries : track.cityscape.start.banner ( 36 / 44 ). @ http://localhost:8123/launch.js:71
+[  364587ms] [LOG] LOADED geometries : track.cityscape.bonus.speed ( 37 / 44 ). @ http://localhost:8123/launch.js:71
+[  364662ms] [LOG] LOADED analysers : track.cityscape.collision ( 38 / 44 ). @ http://localhost:8123/launch.js:71
+[  364708ms] [LOG] LOADED analysers : track.cityscape.height ( 39 / 44 ). @ http://localhost:8123/launch.js:71
+[  364718ms] [LOG] LOADED sounds : crash ( 40 / 44 ). @ http://localhost:8123/launch.js:71
+[  364719ms] [LOG] LOADED sounds : boost ( 41 / 44 ). @ http://localhost:8123/launch.js:71
+[  364720ms] [LOG] LOADED sounds : destroyed ( 42 / 44 ). @ http://localhost:8123/launch.js:71
+[  364725ms] [LOG] LOADED sounds : wind ( 43 / 44 ). @ http://localhost:8123/launch.js:71
+[  365081ms] [LOG] LOADED sounds : bg ( 44 / 44 ). @ http://localhost:8123/launch.js:71
+[  365081ms] [LOG] LOADED. @ http://localhost:8123/launch.js:61
+[  597543ms] [WARNING] Matrix3.getInverse(): determinant == 0 @ http://localhost:8123/libs/Three.dev.js:43
