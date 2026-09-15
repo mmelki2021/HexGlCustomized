@@ -1,0 +1,13 @@
+{
+  "name": "hexgl-legacy-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tests de non-regression (node:test) des modules HexGL executables sans navigateur, a lancer avant tout refactoring.",
+  "scripts": {
+    "test": "node --test",
+    "verify:branding": "node tools/verify-branding.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

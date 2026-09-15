@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+echo "Vérification avant commit... "
+cd HexGL || exit 1
+npm test || exit 1
+echo "OK"

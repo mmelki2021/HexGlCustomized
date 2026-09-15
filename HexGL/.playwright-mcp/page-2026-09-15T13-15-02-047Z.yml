@@ -1,0 +1,12 @@
+- generic [active]:
+  - generic:
+    - img "ACME" [ref=f3e4]
+    - generic [ref=f3e5]:
+      - heading "Bienvenue au ACME Racing Challenge" [level=1] [ref=f3e6]
+      - paragraph [ref=f3e7]: Une expérience événementielle aux couleurs de la marque.
+    - generic [ref=f3e9]:
+      - generic [ref=f3e10] [cursor=pointer]: Démarrer la course
+      - generic [ref=f3e11] [cursor=pointer]: "Contrôles : Clavier"
+      - generic [ref=f3e12] [cursor=pointer]: "Qualité : Très haute"
+      - generic [ref=f3e13] [cursor=pointer]: "HUD : Activé"
+      - generic [ref=f3e14] [cursor=pointer]: Crédits
